@@ -34,6 +34,15 @@ Misuse may violate laws or terms of service. Always act responsibly and legally.
 - `openssl`
 - `xclip` (Linux) or `pbcopy` (macOS) for clipboard copy (optional)
 
+
+## ⚙️ Running the Script
+
+Before running the script, you must make it executable:
+
+```bash
+chmod +x cracker.sh
+
+
 ## 📄 Usage
 
 ```bash
